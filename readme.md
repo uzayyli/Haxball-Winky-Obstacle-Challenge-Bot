@@ -1,5 +1,6 @@
 # Winky's Obstacle Challenge Bot
 - You can use both `!` and `.` as command prefix
+- Don't forget to change the admin password before hosting the bot, it is currently `adm123` at the very beginning of the code
 # Command List
 - `!admin [password]` gives you admin and TP privileges
 - `!tp [levelNumber]` teleports you to a specified level number. Available levels: 1-14
