@@ -1,8 +1,8 @@
 # Winky's Obstacle Challenge Bot
 - You can use both `!` and `.` as command prefix
-- Don't forget to change the admin password before hosting the bot, it is currently `adm123` at the very beginning of the code
+- Don't forget to change the admin and TP passwords before hosting the bot, it is currently `admpass123` and `tppass123` at the very beginning of the code
 # Command List
-- `!admin [password] [0/1]` gives you admin and TP privileges, if the second argument is set to 1, you will become a secret admin
+- `!admin [password] [0/1]` gives you admin and/or TP privileges, if the second argument is set to 1, you will become a secret admin
 - `!admin [playerName] [0/1]` sets another player as a (secret) admin
 - `!tp [levelNumber]` teleports you to a specified level number. Available levels: 1-14
 - `!tp [playerName]` teleports you to a specified player
