@@ -1,10 +1,11 @@
 # Winky's Obstacle Challenge Bot
-- You can use both `!` and `.` as command prefix
 - Don't forget to change the admin passwords before hosting the bot, there are four passwords at the beginning of the code. Passwords can have any character except space.
 - This bot is based on my haxball bot version 6.2.1, you can find its full documentation here: https://github.com/uzayyli/Haxball-Headless-Bot
+- Added jakjus cake and mountains maps
 - This version (for the Winky parkour map) has not been fully tested yet. Please let me know if you encounter any bugs.
 
 # Command List
+- You can use both `!` and `.` as command prefix
 - `!help` shows detailed information about all available commands
 - `!admin [password] [hidden]` gives you admin privileges. If the second argument exists, you will become a hidden admin
 - `!finish` saves your name in the leaderboard, if you have finished the map
